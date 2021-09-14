@@ -1,0 +1,16 @@
+.employee-form {
+    border: 1px solid #ddd;
+    padding: 1rem 3rem;
+}
+
+.buttons {
+  margin: 2.4rem 0 0;
+}
+
+.control {
+  margin: 1.5rem 0;
+}
+
+input[type="file"] {
+  margin: 1.5rem 0;
+}
